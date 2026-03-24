@@ -1,0 +1,21 @@
+{
+  "name": "Uganda Digital Platform",
+  "short_name": "UDP",
+  "description": "منصة رقمية لدعم المزارعين في أوغندا",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#2ecc71",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1674/1674083.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1674/1674083.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
